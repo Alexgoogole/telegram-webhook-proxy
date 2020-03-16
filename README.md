@@ -6,6 +6,6 @@ node.js, npm
 1. Clone repo
 2. Run `npm install`
 # Usage:
-`node app.js <your-bot-token> <local-webhooks-url>`
+`node app.js <your-bot-token> <local-webhooks-url>`\n
 Example:
 `node app.js 123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11 http://127.0.0.1:8000/webhooks`
