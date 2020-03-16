@@ -1,0 +1,29 @@
+{
+  "name": "telegram-webhook-proxy",
+  "version": "1.0.0",
+  "description": "Simple JS app to poll Telegram bot and imitate webhooks for local development",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexgoogole/telegram-webhook-proxy.git"
+  },
+  "keywords": [
+    "Telegrm",
+    "webhook",
+    "polling",
+    "proxy"
+  ],
+  "author": "Oleksandr Hohol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexgoogole/telegram-webhook-proxy/issues"
+  },
+  "homepage": "https://github.com/Alexgoogole/telegram-webhook-proxy#readme"
+}
