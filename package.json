@@ -4,7 +4,7 @@
   "description": "Simple JS app to poll Telegram bot and imitate webhooks for local development",
   "main": "app.js",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {},
   "scripts": {
